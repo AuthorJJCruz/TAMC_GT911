@@ -1,0 +1,12 @@
+{
+  "name": "TAMC_GT911",
+  "version": "1.0.0",
+  "keywords": "touchscreen, gt911, tamc",
+  "description": "Lightweight GT911 touchscreen driver for ESP32-S3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AuthorJJCruz/TAMC_GT911.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
